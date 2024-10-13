@@ -1,4 +1,4 @@
-[![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2022/08/What-Is-Back-End-Development.gif)]
+![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2022/08/What-Is-Back-End-Development.gif)
 <h1 align="center">Hi 👋, I'm Ayan Pal</h1>
 <h3 align="center">A passionate fullstack developer from India India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
